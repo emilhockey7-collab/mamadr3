@@ -311,7 +311,7 @@
     <div class="container">
         <div class="invitation-card">
             <div class="header-image">
-                <img src="https://storage.yandexcloud.net/testegetutor/ChatGPT%20Image%20Nov%208%2C%202025%2C%2007_20_45%20PM.png" alt="Юбиляр">
+                <img src="https://storage.yandexcloud.net/testegetutor/9df9005f-3e8d-4b50-a786-93ce952fc288.jfif" alt="Юбиляр">
             </div>
 
             <div class="golden-number">50</div>
