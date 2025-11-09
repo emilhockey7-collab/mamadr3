@@ -311,7 +311,7 @@
     <div class="container">
         <div class="invitation-card">
             <div class="header-image">
-                <img src="https://storage.yandexcloud.net/testegetutor/9df9005f-3e8d-4b50-a786-93ce952fc288.jfif" alt="Юбиляр">
+                <img src="https://storage.yandexcloud.net/testegetutor/9df9005f-3e8d-4b50-a786-93ce952fc288.png" alt="Юбиляр">
             </div>
 
             <div class="golden-number">50</div>
